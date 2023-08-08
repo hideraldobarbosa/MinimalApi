@@ -1,4 +1,4 @@
-# Minimal API
+# *Minimal API*
 
 ## Exploring Minimal APIs in C#: A Simple Example and Key Characteristics 
 
@@ -9,7 +9,7 @@
 #### One of the defining features of Minimal APIs is their simplicity. We start by importing the necessary namespaces and then define our API endpoints using lambda expressions. 
 ### This eliminates the need for separate controller classes and reduces the overall boilerplate code.
 
-## 2 - _Routing and Endpoint Mapping_: 
+## 2 - Routing and Endpoint Mapping: 
 
 #### In Minimal APIs, routing and endpoint mapping are handled directly within the app.Map method calls. This provides a clear and intuitive way to define the routes and their corresponding actions.
 
