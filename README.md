@@ -1,4 +1,4 @@
-# MinimalApi
+# Minimal API
 
 ## Exploring Minimal APIs in C#: A Simple Example
 
