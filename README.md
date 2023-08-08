@@ -13,4 +13,8 @@
 
 ### In Minimal APIs, routing and endpoint mapping are handled directly within the app.Map method calls. This provides a clear and intuitive way to define the routes and their corresponding actions.
 
+## DI Integration: 
+### Minimal APIs seamlessly integrate with Dependency Injection (DI) containers. Services can be easily injected into the endpoint handler methods, enabling better separation of concerns and testability.
+
+
 
